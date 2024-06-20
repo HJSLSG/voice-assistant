@@ -1,0 +1,6 @@
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+wikipedia==1.4.0
+pyautogui==0.9.53
+ffmpeg-python==0.2.0
+pyaudio
